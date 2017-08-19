@@ -137,7 +137,8 @@ button {
   background-color: #4b4e4f;
   color: white;
   padding: 5% 20%;
-  font-size: 2rem;
+  font-size: 1.75rem;
+  justify-content: center;
 }
 
 /* Info */
